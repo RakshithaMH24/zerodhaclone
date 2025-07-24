@@ -11,3 +11,49 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.nav-link {
+  margin-left:40px;
+}
+.partner-logo {
+  width: 190px;
+  height: 80px;
+  object-fit: contain;
+  margin-bottom: 15px;
+}
+
+.logo-smaller {
+  width: 130px;
+  height: 65px;
+  object-fit: contain;
+  margin-bottom: 15px;
+}
+
+.text-small {
+  font-size: 14px;
+  color: #6c757d;
+  max-width: 300px;
+  margin: 0 auto;
+}
+#supportHero{
+  background-color: rgb(56, 126, 209);
+  color: white;
+}
+
+#supportHero a{
+  color: white;
+}
+
+#supportWrapper{
+  display: flex;
+  justify-content: space-between;
+  margin: 0 150px;
+}
+
+#supportHero input{
+  padding: 20px 50px;
+  width: 100%;
+  font-size: 20px;
+  border-radius: 10px;
+  border: none;
+}
+
