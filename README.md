@@ -88,11 +88,3 @@ zerodhaclone/
 ```
 
 ---
-
-## 👩‍💻 Author
-
-**Rakshitha M H**  
-🔗 [GitHub](https://github.com/RakshithaMH24)  
-🔗 [LinkedIn](https://linkedin.com/in/rakshitha-m-h-59b722298)
-
----
