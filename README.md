@@ -1,8 +1,6 @@
 # 💸 Zerodha Clone – Full Stack Trading Dashboard
 
-A full-stack **Zerodha-inspired trading platform** built using React, Node.js, and MongoDB. Designed for modern investors with a beautiful dashboard, charts, and seamless UI – just like the real thing!
-
-![Zerodha Clone Banner](screenshots/zerodha-banner.png)
+A full-stack **Zerodha-inspired trading platform** built using React, Node.js, and MongoDB. Designed for modern investors with a beautiful dashboard, charts, and seamless UI – just like the real thing
 
 ---
 
@@ -31,15 +29,15 @@ A full-stack **Zerodha-inspired trading platform** built using React, Node.js, a
 
 ### 🔹 Landing Page
 
-![Landing Page](![alt text](image.png))
+![Landing Page](Screenshots/Screenshot 2025-08-06 111031.png)
 
 ### 🔹 Login Page
 
-![Login](c:\Users\leaki\OneDrive\Pictures\Screenshots\Screenshot 2025-08-06 111136.png)
+![Login](Screenshots/Screenshot 2025-08-06 111136.png)
 
 ### 🔹 Dashboard with Charts
 
-![Dashboard](![alt text](image-2.png))
+![Dashboard](Screenshots/Screenshot 2025-08-06 111308.png)
 
 ---
 
