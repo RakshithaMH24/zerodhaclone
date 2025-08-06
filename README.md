@@ -29,15 +29,15 @@ A full-stack **Zerodha-inspired trading platform** built using React, Node.js, a
 
 ### 🔹 Landing Page
 
-![Landing Page](Screenshots/Screenshot 2025-08-06 111031.png)
+![Landing Page](Screenshots/Screenshot2025-08-06111031.png)
 
 ### 🔹 Login Page
 
-![Login](Screenshots/Screenshot 2025-08-06 111136.png)
+![Login](Screenshots/Screenshot2025-08-06111136.png)
 
 ### 🔹 Dashboard with Charts
 
-![Dashboard](Screenshots/Screenshot 2025-08-06 111308.png)
+![Dashboard](Screenshots/Screenshot2025-08-06111308.png)
 
 ---
 
